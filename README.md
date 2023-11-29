@@ -1,5 +1,5 @@
 ### Hola 👋
-Mi nombre es María Delfina Cañas mas conocida como Delfi Gica y soy Full Stack Developer
+Mi nombre es María Delfina Cañas más conocida como Delfi Gica, soy Full Stack Developer con preferencia en el desarrollo FrontEnd
 
 ### Curriculum Vitae
 https://delfigica.github.io/CV/
