@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Maria Delfina Cañas, also known as Delfi Gica. Explor
 ### Curriculum Vitae
 https://delfigica.github.io/CV/
 
-### Portafolio
+### Portfolio
 https://delfigica.github.io/Portafolio/
 
 #### Frontend stack:
@@ -14,9 +14,11 @@ https://delfigica.github.io/Portafolio/
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logo=nextjs&logoColor=white)
-![Angular](https://img.shields.io/badge/angularjs-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Vue](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=vuejs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logo=nuxtjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
+![Angular](https://img.shields.io/badge/angularjs-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
 ### Backend stack: 
 ![Node](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=nodejs&logoColor=white)
