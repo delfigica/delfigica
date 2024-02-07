@@ -13,12 +13,15 @@ https://delfigica.github.io/Portafolio/
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logo=nextjs&logoColor=white)
-![Vue](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=vuejs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/next-%23000000.svg?style=for-the-badge&logo=nuxtjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
-![Angular](https://img.shields.io/badge/angularjs-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Nuxt UI](https://img.shields.io/badge/-Nuxt_UI-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ### Backend stack: 
 ![Node](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=nodejs&logoColor=white)
