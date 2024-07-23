@@ -4,8 +4,8 @@ Welcome to my GitHub! I'm Maria Delfina Cañas, also known as Delfi Gica. Explor
 ### Resume
 https://delfigica.github.io/CV/
 
-### Portfolio
-https://delfigica.github.io/Portafolio/
+### My website
+delfina.ar
 
 #### Frontend stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
