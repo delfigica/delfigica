@@ -1,5 +1,5 @@
 ### HEY EVERYONE 👋 !
-Welcome to my GitHub! I'm Maria Delfina Cañas, also known as Delfi Gica. Explore a diverse collection of my projects, from landing pages to blogs and games. As a full-stack developer, my passion lies in frontend development, where I specialize in Next.js, React, Angular, HTML, and CSS. Each project reflects my dedication to creative development and my constant exploration of new technologies. 
+Welcome to my GitHub! I'm Maria Delfina Cañas, also known as Delfi Gica. Explore a diverse collection of my projects, from landing pages to blogs and games. As a full-stack developer, my passion lies in frontend development, where I specialize in Next.js, React, Nuxt.js, Vue, Javascript, HTML, and CSS. Each project reflects my dedication to creative development and my constant exploration of new technologies. 
 
 ### Resume
 https://delfigica.github.io/CV/
